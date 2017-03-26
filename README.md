@@ -1,1 +1,9 @@
-This is my first app with Django.
+# mysite
+
+## Description
+
+`mysite` is a poll app.
+
+## Requirement
+
+- Django
