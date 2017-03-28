@@ -6,4 +6,5 @@
 
 ## Requirement
 
+- Python 3.x
 - Django
